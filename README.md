@@ -19,5 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorwolleck&show_icons=true&locale=en&layout=compact" alt="victorwolleck" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorwolleck&show_icons=true&locale=en" alt="victorwolleck" /></p>
+
+
+
 
