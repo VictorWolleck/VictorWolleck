@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java and biology**
 
-- 📫 How to reach me **vifewo@gmail.com**
+- 📫 How to reach me **victorfelipewolleck@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/victorfelipewolleck/](https://www.linkedin.com/in/victorfelipewolleck/)
 
